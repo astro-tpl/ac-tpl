@@ -1,0 +1,10 @@
+version: v1.0.0
+id: "cursor-default"
+type: "context"
+name: "Cursor 基础守则"
+labels: ["rules", "cursor"]
+summary: "Cursor 项目通用基础配置"
+targets:
+  - path: ".cursor/principles.mdx"
+    mode: "write"
+    content_from_prompt: "code_principles"
