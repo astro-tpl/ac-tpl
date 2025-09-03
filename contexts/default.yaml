@@ -7,4 +7,4 @@ summary: "Cursor 项目通用基础配置"
 targets:
   - path: ".cursor/principles.mdc"
     mode: "write"
-    content_from_prompt: "code-principles"
+    content_from_prompt: "coding/principles"
