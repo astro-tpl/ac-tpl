@@ -1,5 +1,5 @@
 version: v1.0.0
-id: "code_principles"
+id: "coding/principles"
 type: "prompt"
 name: "编程基本原则"
 labels: ["principle"]

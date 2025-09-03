@@ -5,6 +5,6 @@ name: "Cursor 基础守则"
 labels: ["rules", "cursor"]
 summary: "Cursor 项目通用基础配置"
 targets:
-  - path: ".cursor/principles.mdx"
+  - path: ".cursor/principles.mdc"
     mode: "write"
-    content_from_prompt: "code_principles"
+    content_from_prompt: "code-principles"
