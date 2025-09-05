@@ -1,5 +1,5 @@
 version: v1.0.0
-id: "ac.io/prompt/info/collection/default"
+id: "ac.io/v1/info/collection/default"
 type: "prompt"
 name: "信息收集"
 labels: ["collect_info"]
