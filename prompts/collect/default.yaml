@@ -1,9 +1,8 @@
 version: v1.0.0
-id: "collect/default"
+id: "ac.io/prompt/info/collection/default"
 type: "prompt"
 name: "信息收集"
 labels: ["collect_info"]
-summary: "信息收集的默认模板"
 content: |
   你是一名经验极其丰富的{role}, 精通{skills}.
 
